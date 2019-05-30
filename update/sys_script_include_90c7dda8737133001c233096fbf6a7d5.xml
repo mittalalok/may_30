@@ -11,6 +11,7 @@
 si1.prototype = {
     initialize: function() {
 		//comment
+		//ddadd
     },
 
     type: 'si1'
@@ -19,13 +20,13 @@ si1.prototype = {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-05-30 10:17:37</sys_created_on>
         <sys_id>90c7dda8737133001c233096fbf6a7d5</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>si1</sys_name>
         <sys_package display_value="may_30" source="sn_may_30">1c67d1a8737133001c233096fbf6a707</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="may_30">1c67d1a8737133001c233096fbf6a707</sys_scope>
         <sys_update_name>sys_script_include_90c7dda8737133001c233096fbf6a7d5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-05-30 10:18:03</sys_updated_on>
+        <sys_updated_on>2019-05-30 12:55:42</sys_updated_on>
     </sys_script_include>
 </record_update>
